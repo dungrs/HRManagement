@@ -1370,3 +1370,6 @@ C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\bin\Debug\DAO.pdb
 C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\bin\Debug\DA.pdb
 C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.Up2Date
 C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmTinh.resources
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmLoaicong.resources
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSualoaicong.resources
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemloaicong.resources

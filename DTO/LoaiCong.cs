@@ -1,8 +1,8 @@
 ﻿namespace DTO {
     public class LoaiCong {
-        private string Maloai { get; set; }
-        private string Tenloai { get; set; }
-        private string Heso { get; set; }
+        public string Maloai { get; set; }
+        public string Tenloai { get; set; }
+        public string Heso { get; set; }
 
         // Constructor mặc định
         public LoaiCong() { }

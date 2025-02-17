@@ -104,11 +104,23 @@
     <Compile Include="frmDoimatkhau.Designer.cs">
       <DependentUpon>frmDoimatkhau.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmLoaicong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoaicong.Designer.cs">
+      <DependentUpon>frmLoaicong.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmlogin.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmlogin.Designer.cs">
       <DependentUpon>frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSualoaicong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSualoaicong.Designer.cs">
+      <DependentUpon>frmSualoaicong.cs</DependentUpon>
     </Compile>
     <Compile Include="frmTaikhoan.cs">
       <SubType>Form</SubType>
@@ -121,6 +133,12 @@
     </Compile>
     <Compile Include="frmMainForm.Designer.cs">
       <DependentUpon>frmMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemloaicong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemloaicong.Designer.cs">
+      <DependentUpon>frmThemloaicong.cs</DependentUpon>
     </Compile>
     <Compile Include="frmTinh.cs">
       <SubType>Form</SubType>
@@ -157,14 +175,23 @@
     <EmbeddedResource Include="frmDoimatkhau.resx">
       <DependentUpon>frmDoimatkhau.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmLoaicong.resx">
+      <DependentUpon>frmLoaicong.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmlogin.resx">
       <DependentUpon>frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSualoaicong.resx">
+      <DependentUpon>frmSualoaicong.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTaikhoan.resx">
       <DependentUpon>frmTaikhoan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMainForm.resx">
       <DependentUpon>frmMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemloaicong.resx">
+      <DependentUpon>frmThemloaicong.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTinh.resx">
       <DependentUpon>frmTinh.cs</DependentUpon>

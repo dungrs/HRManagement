@@ -273,17 +273,17 @@ namespace QLNhanSu
         //     frmThemcong themcong = new frmThemcong();
         //     themcong.Show();
         // }
-        // private void btLoaicong_ItemClick(object sender, ItemClickEventArgs e)
-        // {
-        //     frmLoaicong loaicong = new frmLoaicong();
-        //     foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
-        //     {
-        //         if (loaicong.Name == _mdi_child.Name)
-        //             _mdi_child.Close();
-        //     }
-        //     loaicong.MdiParent = this;
-        //     loaicong.Show();
-        // }
+        private void btLoaicong_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmLoaicong loaicong = new frmLoaicong();
+            foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
+            {
+                if (loaicong.Name == _mdi_child.Name)
+                    _mdi_child.Close();
+            }
+            loaicong.MdiParent = this;
+            loaicong.Show();
+        }
 
        
         private void barButtonItem3_ItemClick(object sender, ItemClickEventArgs e)
@@ -455,17 +455,17 @@ namespace QLNhanSu
         //     frm.Show();
         // }
 
-        // private void navBarItem_Loaicong_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
-        // {
-        //     frmLoaicong loaicong = new frmLoaicong();
-        //     foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
-        //     {
-        //         if (loaicong.Name == _mdi_child.Name)
-        //             _mdi_child.Close();
-        //     }
-        //     loaicong.MdiParent = this;
-        //     loaicong.Show();
-        // }
+        private void navBarItem_Loaicong_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            frmLoaicong loaicong = new frmLoaicong();
+            foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
+            {
+                if (loaicong.Name == _mdi_child.Name)
+                    _mdi_child.Close();
+            }
+            loaicong.MdiParent = this;
+            loaicong.Show();
+        }
 
         // private void navBar_phucap_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
         // {
@@ -558,17 +558,17 @@ namespace QLNhanSu
         //     frm.Show();
         // }
 
-        // private void bt_dmLoaicong_ItemClick(object sender, ItemClickEventArgs e)
-        // {
-        //     frmLoaicong frm = new frmLoaicong();
-        //     foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
-        //     {
-        //         if (frm.Name == _mdi_child.Name)
-        //             _mdi_child.Close();
-        //     }
-        //     frm.MdiParent = this;
-        //     frm.Show();
-        // }
+        private void bt_dmLoaicong_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmLoaicong frm = new frmLoaicong();
+            foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
+            {
+                if (frm.Name == _mdi_child.Name)
+                    _mdi_child.Close();
+            }
+            frm.MdiParent = this;
+            frm.Show();
+        }
 
         // private void bt_dmPhucap_ItemClick(object sender, ItemClickEventArgs e)
         // {
@@ -676,17 +676,17 @@ namespace QLNhanSu
         //     frm.Show();
         // }
 
-        // private void navBarItem_DMLoaicong_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
-        // {
-        //     frmLoaicong frm = new frmLoaicong();
-        //     foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
-        //     {
-        //         if (frm.Name == _mdi_child.Name)
-        //             _mdi_child.Close();
-        //     }
-        //     frm.MdiParent = this;
-        //     frm.Show();
-        // }
+        private void navBarItem_DMLoaicong_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            frmLoaicong frm = new frmLoaicong();
+            foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
+            {
+                if (frm.Name == _mdi_child.Name)
+                    _mdi_child.Close();
+            }
+            frm.MdiParent = this;
+            frm.Show();
+        }
 
         // private void navBarItem_DMPhucap_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
         // {

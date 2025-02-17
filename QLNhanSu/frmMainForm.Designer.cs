@@ -725,7 +725,7 @@
             this.bt_dmLoaicong.Id = 124;
             this.bt_dmLoaicong.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("bt_dmLoaicong.ImageOptions.SvgImage")));
             this.bt_dmLoaicong.Name = "bt_dmLoaicong";
-            // this.bt_dmLoaicong.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bt_dmLoaicong_ItemClick);
+            this.bt_dmLoaicong.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bt_dmLoaicong_ItemClick);
             // 
             // bt_dmPhucap
             // 
