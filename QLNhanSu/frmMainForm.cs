@@ -315,17 +315,17 @@ namespace QLNhanSu
             thoat();
         }
 
-        // private void btPhucap_ItemClick(object sender, ItemClickEventArgs e)
-        // {
-        //     frmPhucap frm = new frmPhucap();
-        //     foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
-        //     {
-        //         if (frm.Name == _mdi_child.Name)
-        //             _mdi_child.Close();
-        //     }
-        //     frm.MdiParent = this;
-        //     frm.Show();
-        // }
+        private void btPhucap_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmPhucap frm = new frmPhucap();
+            foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
+            {
+                if (frm.Name == _mdi_child.Name)
+                    _mdi_child.Close();
+            }
+            frm.MdiParent = this;
+            frm.Show();
+        }
 
         private void ribbon_Click_1(object sender, EventArgs e)
         {
@@ -467,17 +467,17 @@ namespace QLNhanSu
             loaicong.Show();
         }
 
-        // private void navBar_phucap_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
-        // {
-        //     frmPhucap frm = new frmPhucap();
-        //     foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
-        //     {
-        //         if (frm.Name == _mdi_child.Name)
-        //             _mdi_child.Close();
-        //     }
-        //     frm.MdiParent = this;
-        //     frm.Show();
-        // }
+        private void navBar_phucap_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            frmPhucap frm = new frmPhucap();
+            foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
+            {
+                if (frm.Name == _mdi_child.Name)
+                    _mdi_child.Close();
+            }
+            frm.MdiParent = this;
+            frm.Show();
+        }
 
 
         private void barbt_taikhoan_ItemClick(object sender, ItemClickEventArgs e)
@@ -570,17 +570,17 @@ namespace QLNhanSu
             frm.Show();
         }
 
-        // private void bt_dmPhucap_ItemClick(object sender, ItemClickEventArgs e)
-        // {
-        //     frmPhucap frm = new frmPhucap();
-        //     foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
-        //     {
-        //         if (frm.Name == _mdi_child.Name)
-        //             _mdi_child.Close();
-        //     }
-        //     frm.MdiParent = this;
-        //     frm.Show();
-        // }
+        private void bt_dmPhucap_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmPhucap frm = new frmPhucap();
+            foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
+            {
+                if (frm.Name == _mdi_child.Name)
+                    _mdi_child.Close();
+            }
+            frm.MdiParent = this;
+            frm.Show();
+        }
 
         // private void bt_dmLoaica_ItemClick(object sender, ItemClickEventArgs e)
         // {
@@ -688,17 +688,17 @@ namespace QLNhanSu
             frm.Show();
         }
 
-        // private void navBarItem_DMPhucap_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
-        // {
-        //     frmPhucap frm = new frmPhucap();
-        //     foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
-        //     {
-        //         if (frm.Name == _mdi_child.Name)
-        //             _mdi_child.Close();
-        //     }
-        //     frm.MdiParent = this;
-        //     frm.Show();
-        // }
+        private void navBarItem_DMPhucap_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            frmPhucap frm = new frmPhucap();
+            foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
+            {
+                if (frm.Name == _mdi_child.Name)
+                    _mdi_child.Close();
+            }
+            frm.MdiParent = this;
+            frm.Show();
+        }
 
        
         private void navBarItem_taikhoan_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)

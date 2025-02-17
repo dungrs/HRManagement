@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="BUS_HeThong.cs" />
     <Compile Include="BUS_LoaiCong.cs" />
+    <Compile Include="BUS_PhuCap.cs" />
     <Compile Include="BUS_Tinh.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -733,7 +733,7 @@
             this.bt_dmPhucap.Id = 125;
             this.bt_dmPhucap.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("bt_dmPhucap.ImageOptions.SvgImage")));
             this.bt_dmPhucap.Name = "bt_dmPhucap";
-            // this.bt_dmPhucap.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bt_dmPhucap_ItemClick);
+            this.bt_dmPhucap.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bt_dmPhucap_ItemClick);
             // 
             // bt_dmLoaica
             // 

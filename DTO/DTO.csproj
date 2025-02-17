@@ -53,7 +53,7 @@
     <Compile Include="DMBangcong.cs" />
     <Compile Include="DMBaohiem.cs" />
     <Compile Include="DMHopdong.cs" />
-    <Compile Include="DMPhucap.cs" />
+    <Compile Include="PhuCap.cs" />
     <Compile Include="HoSoNhanVien.cs" />
     <Compile Include="LoaiCong.cs" />
     <Compile Include="LoaiHD.cs" />

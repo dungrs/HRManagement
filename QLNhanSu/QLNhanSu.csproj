@@ -116,11 +116,23 @@
     <Compile Include="frmlogin.Designer.cs">
       <DependentUpon>frmlogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmPhucap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhucap.Designer.cs">
+      <DependentUpon>frmPhucap.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmSualoaicong.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmSualoaicong.Designer.cs">
       <DependentUpon>frmSualoaicong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSuaphucap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSuaphucap.Designer.cs">
+      <DependentUpon>frmSuaphucap.cs</DependentUpon>
     </Compile>
     <Compile Include="frmTaikhoan.cs">
       <SubType>Form</SubType>
@@ -140,6 +152,10 @@
     <Compile Include="frmThemloaicong.Designer.cs">
       <DependentUpon>frmThemloaicong.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmThemphucap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemphucap.Designer.cs" />
     <Compile Include="frmTinh.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -181,8 +197,14 @@
     <EmbeddedResource Include="frmlogin.resx">
       <DependentUpon>frmlogin.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmPhucap.resx">
+      <DependentUpon>frmPhucap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmSualoaicong.resx">
       <DependentUpon>frmSualoaicong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSuaphucap.resx">
+      <DependentUpon>frmSuaphucap.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTaikhoan.resx">
       <DependentUpon>frmTaikhoan.cs</DependentUpon>
@@ -192,6 +214,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmThemloaicong.resx">
       <DependentUpon>frmThemloaicong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemphucap.resx">
+      <DependentUpon>frmThemphucap.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTinh.resx">
       <DependentUpon>frmTinh.cs</DependentUpon>

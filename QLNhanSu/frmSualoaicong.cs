@@ -156,9 +156,9 @@ namespace QLNhanSu
             if (kiemtraNhap())
             {
                 LoaiCong loaicong = new LoaiCong();
-                loaicong.Maloai= txtMaloaicong.Text;
+                loaicong.Maloai = txtMaloaicong.Text;
                 loaicong.Tenloai = txtTenloaicong.Text;
-                loaicong.Heso=txtHesoluong.Text;
+                loaicong.Heso = txtHesoluong.Text;
                 if (BUS_LoaiCong.updateLoaiCong(loaicong, loaiCong.Maloai))
                 {
                     MessageBox.Show("Sửa thành công loại công có mã " + txtMaloaicong.Text + "", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Information);

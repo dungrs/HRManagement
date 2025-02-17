@@ -47,6 +47,7 @@
     <Compile Include="clConver.cs" />
     <Compile Include="DAO_HeThong.cs" />
     <Compile Include="DAO_LoaiCong.cs" />
+    <Compile Include="DAO_PhuCap.cs" />
     <Compile Include="DAO_Tinh.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TinhDateTimePicker.cs" />
