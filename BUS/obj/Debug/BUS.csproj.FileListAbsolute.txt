@@ -1,0 +1,65 @@
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\BUS\bin\Debug\BUS.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\BUS\bin\Debug\BUS.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\BUS\bin\Debug\DAO.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\BUS\bin\Debug\DTO.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\BUS\bin\Debug\DA.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\BUS\bin\Debug\DAO.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\BUS\bin\Debug\DTO.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\BUS\bin\Debug\DA.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\BUS\obj\Debug\BUS.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\BUS\obj\Debug\BUS.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\BUS\bin\Debug\BUS.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\BUS\bin\Debug\BUS.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\BUS\bin\Debug\DAO.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\BUS\bin\Debug\DTO.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\BUS\bin\Debug\DA.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\BUS\bin\Debug\DAO.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\BUS\bin\Debug\DTO.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\BUS\bin\Debug\DA.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\BUS\obj\Debug\BUS.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\BUS\obj\Debug\BUS.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\BUS.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\BUS.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\DAO.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\DTO.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\DA.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\DAO.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\DTO.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\DA.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\BUS\obj\Debug\BUS.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\BUS\obj\Debug\BUS.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\BUS.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\BUS.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\DAO.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\DTO.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\DA.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\DAO.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\DTO.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\BUS\bin\Debug\DA.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\BUS\obj\Debug\BUS.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\BUS\obj\Debug\BUS.pdb
+C:\Users\Laptop\Downloads\HRManagement\BUS\bin\Debug\BUS.dll
+C:\Users\Laptop\Downloads\HRManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\Laptop\Downloads\HRManagement\BUS\bin\Debug\DAO.dll
+C:\Users\Laptop\Downloads\HRManagement\BUS\bin\Debug\DTO.dll
+C:\Users\Laptop\Downloads\HRManagement\BUS\bin\Debug\DA.dll
+C:\Users\Laptop\Downloads\HRManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\Laptop\Downloads\HRManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\Laptop\Downloads\HRManagement\BUS\bin\Debug\DA.pdb
+C:\Users\Laptop\Downloads\HRManagement\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Laptop\Downloads\HRManagement\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Downloads\HRManagement\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Laptop\Downloads\HRManagement\BUS\obj\Debug\BUS.dll
+C:\Users\Laptop\Downloads\HRManagement\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,1372 @@
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.ResolveComReference.cache
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBangcong.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBangluong.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBophan.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChitietBangcongNhanvien.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChitietTangca.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChucvu.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmDMTangca.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmDoimatkhau.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmKhautru.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmlogin.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmPhucap.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmPhucapNhanvien.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmQltangca.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuacong.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSualoaicong.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaphucap.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuatangca.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmTaikhoan.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemtangca.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemloaicong.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemphucap.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmTinh.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmUngluong.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBaocaoNV.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmLoaicong.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmMainForm.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmNhapXuatNhanvienExcel.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmQLNhanvien.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaBaohiem.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaHopDong.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaNhanvien.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemCmndChitiet.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemcong.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemHopdong.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.Properties.Resources.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemBaohiem.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemNhanvien.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.SplashScreen1.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.WaitForm1.resources
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.exe.licenses
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\QLNhanSu.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\BUS.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\crystaldecisions.windows.forms.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.BonusSkins.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.CodeParser.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.PivotGrid.v20.2.Core.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.RichEdit.v20.2.Export.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraNavBar.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraPivotGrid.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraReports.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DTO.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\Excel.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DAO.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.DataAccess.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.DataAccess.v20.2.UI.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraGauges.v20.2.Core.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.Extensions.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DA.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraDiagram.v20.2.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Diagram.v20.2.Core.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\stdole.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\BUS.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DTO.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.PivotGrid.v20.2.Core.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraNavBar.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraPivotGrid.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraReports.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\Excel.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DAO.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.DataAccess.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.DataAccess.v20.2.UI.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraGauges.v20.2.Core.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DA.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraDiagram.v20.2.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Diagram.v20.2.Core.xml
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.CopyComplete
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.exe
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.csprojAssemblyReference.cache
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.ResolveComReference.cache
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.exe
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\QLNhanSu.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\BUS.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\crystaldecisions.windows.forms.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.BonusSkins.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.CodeParser.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.PivotGrid.v20.2.Core.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.RichEdit.v20.2.Export.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraNavBar.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraPivotGrid.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraReports.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DTO.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\Excel.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DAO.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.DataAccess.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.DataAccess.v20.2.UI.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraGauges.v20.2.Core.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.Extensions.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DA.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraDiagram.v20.2.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Diagram.v20.2.Core.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\stdole.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\BUS.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DTO.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.PivotGrid.v20.2.Core.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraNavBar.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraPivotGrid.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraReports.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\Excel.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DAO.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.DataAccess.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.DataAccess.v20.2.UI.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraGauges.v20.2.Core.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DA.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.XtraDiagram.v20.2.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\DevExpress.Diagram.v20.2.Core.xml
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\de\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\es\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ja\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\bin\Debug\ru\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBangcong.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBangluong.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBophan.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChitietBangcongNhanvien.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChitietTangca.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChucvu.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmDMTangca.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmDoimatkhau.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmKhautru.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmlogin.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmPhucap.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmPhucapNhanvien.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmQltangca.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuacong.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSualoaicong.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaphucap.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuatangca.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmTaikhoan.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemtangca.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemloaicong.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemphucap.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmTinh.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmUngluong.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBaocaoNV.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmLoaicong.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmMainForm.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmNhapXuatNhanvienExcel.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmQLNhanvien.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaBaohiem.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaHopDong.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaNhanvien.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemCmndChitiet.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemcong.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemHopdong.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.Properties.Resources.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemBaohiem.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemNhanvien.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.SplashScreen1.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.WaitForm1.resources
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.GenerateResource.cache
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.exe.licenses
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.CopyComplete
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBangcong.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBangluong.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBophan.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChitietBangcongNhanvien.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChitietTangca.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChucvu.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmDMTangca.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmDoimatkhau.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmKhautru.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmlogin.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmPhucap.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmPhucapNhanvien.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmQltangca.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuacong.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSualoaicong.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaphucap.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuatangca.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmTaikhoan.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemtangca.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemloaicong.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemphucap.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmTinh.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmUngluong.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBaocaoNV.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmLoaicong.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmMainForm.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmNhapXuatNhanvienExcel.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmQLNhanvien.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaBaohiem.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaHopDong.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaNhanvien.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemCmndChitiet.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemcong.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemHopdong.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.Properties.Resources.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemBaohiem.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemNhanvien.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.SplashScreen1.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.WaitForm1.resources
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.exe.licenses
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.exe
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.pdb
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\QLNhanSu.exe
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\QLNhanSu.pdb
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\BUS.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\crystaldecisions.windows.forms.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.BonusSkins.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.CodeParser.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.PivotGrid.v20.2.Core.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.RichEdit.v20.2.Export.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraNavBar.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraPivotGrid.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraReports.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DTO.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DAO.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataAccess.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataAccess.v20.2.UI.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraGauges.v20.2.Core.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.Extensions.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DA.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraDiagram.v20.2.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Diagram.v20.2.Core.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\stdole.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\BUS.pdb
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DTO.pdb
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.PivotGrid.v20.2.Core.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraNavBar.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraPivotGrid.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraReports.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DAO.pdb
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataAccess.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataAccess.v20.2.UI.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraGauges.v20.2.Core.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DA.pdb
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraDiagram.v20.2.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Diagram.v20.2.Core.xml
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ru\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\User\source\repos\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.CopyComplete
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\QLNhanSu.exe
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\QLNhanSu.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\BUS.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.CodeParser.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.PivotGrid.v22.1.Core.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Utils.v22.1.UI.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Xpo.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraReports.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DTO.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DAO.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DA.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\stdole.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\BUS.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DTO.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DAO.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DA.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.AssemblyReference.cache
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.ResolveComReference.cache
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBangcong.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBangluong.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBophan.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChitietBangcongNhanvien.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChitietTangca.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChucvu.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmDMTangca.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmDoimatkhau.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmKhautru.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmlogin.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmPhucap.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmPhucapNhanvien.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmQltangca.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuacong.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSualoaicong.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaphucap.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuatangca.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmTaikhoan.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemtangca.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemloaicong.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemphucap.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmTinh.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmUngluong.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBaocaoNV.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmLoaicong.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmMainForm.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmNhapXuatNhanvienExcel.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmQLNhanvien.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaBaohiem.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaHopDong.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaNhanvien.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemCmndChitiet.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemcong.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemHopdong.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.Properties.Resources.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemBaohiem.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemNhanvien.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.SplashScreen1.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.WaitForm1.resources
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.GenerateResource.cache
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.exe.licenses
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.CopyComplete
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.exe
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.AssemblyReference.cache
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.ResolveComReference.cache
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmDoimatkhau.resources
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmlogin.resources
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmTaikhoan.resources
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.frmMainForm.resources
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.Properties.Resources.resources
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.SplashScreen1.resources
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.WaitForm1.resources
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.GenerateResource.cache
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.exe.licenses
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.exe
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\QLNhanSu.exe
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\QLNhanSu.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\BUS.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DTO.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DAO.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DA.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\stdole.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\BUS.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DTO.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DAO.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DA.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.Up2Date
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\QLNhanSu.exe
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\QLNhanSu.pdb
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\BUS.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DTO.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DAO.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DA.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\stdole.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\BUS.pdb
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DTO.pdb
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DAO.pdb
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DA.pdb
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.AssemblyReference.cache
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.ResolveComReference.cache
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.frmDoimatkhau.resources
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.frmlogin.resources
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.frmTaikhoan.resources
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.frmMainForm.resources
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.Properties.Resources.resources
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.SplashScreen1.resources
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.WaitForm1.resources
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.GenerateResource.cache
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.exe.licenses
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.Up2Date
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.exe
+C:\Users\Laptop\Downloads\HRManagament\QLNhanSu\obj\x86\Debug\QLNhanSu.pdb
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.AssemblyReference.cache
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.ResolveComReference.cache
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmDoimatkhau.resources
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmlogin.resources
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmTaikhoan.resources
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmMainForm.resources
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.Properties.Resources.resources
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.SplashScreen1.resources
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.WaitForm1.resources
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.GenerateResource.cache
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.exe.licenses
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.exe
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.pdb
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\bin\Debug\QLNhanSu.exe
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\bin\Debug\QLNhanSu.pdb
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\bin\Debug\BUS.dll
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\bin\Debug\DTO.dll
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\bin\Debug\DAO.dll
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\bin\Debug\DA.dll
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\bin\Debug\BUS.pdb
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\bin\Debug\DTO.pdb
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\bin\Debug\DAO.pdb
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\bin\Debug\DA.pdb
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.csproj.Up2Date
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmTinh.resources

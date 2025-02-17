@@ -1,0 +1,55 @@
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DAO\bin\Debug\DA.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DAO\bin\Debug\DA.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DAO\bin\Debug\DA.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DAO\bin\Debug\DA.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DAO\bin\Debug\DAO.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DAO\bin\Debug\DAO.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DAO\bin\Debug\DA.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DAO\bin\Debug\DTO.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DAO\bin\Debug\DA.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DAO\bin\Debug\DTO.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DAO\obj\Debug\DAO.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DAO\obj\Debug\DAO.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DAO\bin\Debug\DAO.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DAO\bin\Debug\DAO.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DAO\bin\Debug\DA.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DAO\bin\Debug\DTO.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DAO\bin\Debug\DA.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DAO\bin\Debug\DTO.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DAO\obj\Debug\DAO.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DAO\obj\Debug\DAO.pdb
+C:\Users\Laptop\Downloads\HRManagement\DAO\bin\Debug\DAO.dll
+C:\Users\Laptop\Downloads\HRManagement\DAO\bin\Debug\DAO.pdb
+C:\Users\Laptop\Downloads\HRManagement\DAO\bin\Debug\DA.dll
+C:\Users\Laptop\Downloads\HRManagement\DAO\bin\Debug\DTO.dll
+C:\Users\Laptop\Downloads\HRManagement\DAO\bin\Debug\DA.pdb
+C:\Users\Laptop\Downloads\HRManagement\DAO\bin\Debug\DTO.pdb
+C:\Users\Laptop\Downloads\HRManagement\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Laptop\Downloads\HRManagement\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Downloads\HRManagement\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\Laptop\Downloads\HRManagement\DAO\obj\Debug\DAO.dll
+C:\Users\Laptop\Downloads\HRManagement\DAO\obj\Debug\DAO.pdb

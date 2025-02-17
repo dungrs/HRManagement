@@ -1,0 +1,30 @@
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DA\bin\Debug\DA.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DA\bin\Debug\DA.pdb
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DA\obj\Debug\DA.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DA\obj\Debug\DA.dll
+C:\Users\User\Downloads\Compressed\QuanLyNhanSu\DA\obj\Debug\DA.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DA\bin\Debug\DA.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DA\bin\Debug\DA.pdb
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DA\obj\Debug\DA.csprojAssemblyReference.cache
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DA\obj\Debug\DA.dll
+C:\Users\User\Downloads\QuanLyNhanSuFinal\QuanLyNhanSu\DA\obj\Debug\DA.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DA\bin\Debug\DA.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DA\bin\Debug\DA.pdb
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DA\obj\Debug\DA.dll
+C:\Users\Dell Precision 7510\Desktop\sharecode\PhanMemQuanLyNhanSu2021\DA\obj\Debug\DA.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DA\bin\Debug\DA.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DA\bin\Debug\DA.pdb
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DA\obj\Debug\DA.dll
+C:\Users\Laptop\Downloads\PhanMemQuanLyNhanSu2021\DA\obj\Debug\DA.pdb
+C:\Users\Laptop\Downloads\HRManagement\DA\bin\Debug\DA.dll
+C:\Users\Laptop\Downloads\HRManagement\DA\bin\Debug\DA.pdb
+C:\Users\Laptop\Downloads\HRManagement\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+C:\Users\Laptop\Downloads\HRManagement\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Downloads\HRManagement\DA\obj\Debug\DA.dll
+C:\Users\Laptop\Downloads\HRManagement\DA\obj\Debug\DA.pdb
