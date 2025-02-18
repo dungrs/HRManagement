@@ -46,7 +46,7 @@
   <ItemGroup>
     <Compile Include="Bangcong.cs" />
     <Compile Include="BangCong_Excel.cs" />
-    <Compile Include="Bophan.cs" />
+    <Compile Include="BoPhan.cs" />
     <Compile Include="ChucVu.cs" />
     <Compile Include="ChungminhChitiet.cs" />
     <Compile Include="Dantoc.cs" />

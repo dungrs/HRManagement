@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="clConver.cs" />
+    <Compile Include="DAO_BoPhan.cs" />
     <Compile Include="DAO_ChucVu.cs" />
     <Compile Include="DAO_HeThong.cs" />
     <Compile Include="DAO_LoaiCong.cs" />

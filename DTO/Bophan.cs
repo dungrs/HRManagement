@@ -1,25 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿namespace DTO {
+    public class BoPhan {
+        public string Mabophan { get; set; }
+        public string Tenbophan { get; set; }
 
-namespace DTO
-{
-    public class Bophan
-    {
-        private string mabophan;
-
-        public string Mabophan
-        {
-            get { return mabophan; }
-            set { mabophan = value; }
-        }
-        private string tenbophan;
-
-        public string Tenbophan
-        {
-            get { return tenbophan; }
-            set { tenbophan = value; }
+        // Constructor mặc định
+        public BoPhan() { }
+        
+        // Constructor có tham số
+        public BoPhan(string mabophan, string tenbophan) {
+            Mabophan = mabophan;
+            Tenbophan = tenbophan;
         }
     }
 }

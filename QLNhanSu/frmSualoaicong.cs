@@ -8,6 +8,7 @@ namespace QLNhanSu
     {
         LoaiCong loaiCong = new LoaiCong();
         public delegate void Reload();
+        public string maCu = "";
         public Reload reload;
         public frmSualoaicong()
         {
@@ -29,14 +30,13 @@ namespace QLNhanSu
             txtMaloaicong.Text = loaiCong.Maloai;
             txtTenloaicong.Text = loaiCong.Tenloai;
             txtHesoluong.Text = loaiCong.Heso;
+            maCu = loaiCong.Maloai;
             image_no_hesoluong.Visible = false;
             image_no_maloaicong.Visible = false;
             image_no_tenloaicong.Visible = false;
             image_yes_hesoluong.Visible = true;
             image_yes_maloaicong.Visible = true;
             image_yes_tenloaicong.Visible = true;
-            if (txtMaloaicong.Text == "CN" || txtMaloaicong.Text == "1" || txtMaloaicong.Text == "L")
-                txtMaloaicong.Enabled = false;
         }
         public bool KT_sothuc(string val)
         {
@@ -73,7 +73,7 @@ namespace QLNhanSu
                 kt = false;
                 MessageBox.Show("Hệ số lương phải là kiểu số, xin bạn hãy chọn lại", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-            else if (BUS_LoaiCong.kiemTraTrungMaKhiSua(txtMaloaicong.Text,loaiCong.Maloai))
+            else if (BUS_LoaiCong.kiemTraTrungMaKhiSua(maCu, txtHesoluong.Text))
             {
                 kt = false;
                 MessageBox.Show("Mã loại công đã tồn tại, bạn hãy thay đổi mã khác", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
@@ -94,7 +94,7 @@ namespace QLNhanSu
                 image_yes_maloaicong.Visible = false;
                 txtMaloaicong.ToolTip = "không được để trống thông tin này";
             }
-            else if (BUS_LoaiCong.kiemTraTrungMaKhiSua(txtMaloaicong.Text, loaiCong.Maloai))
+            else if (BUS_LoaiCong.kiemTraTrungMaKhiSua(maCu, txtMaloaicong.Text))
             {
                 image_no_maloaicong.Visible = true;
                 image_yes_maloaicong.Visible = false;

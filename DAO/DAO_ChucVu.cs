@@ -50,7 +50,7 @@ namespace DAO{
                     WHEN EXISTS (
                         SELECT 1 
                         FROM NhanVien 
-                        WHERE machucvu = @macv
+                        WHERE machucvu = @macv AND thoiviec = 1
                     ) 
                     THEN 1 ELSE 0 
                 END";

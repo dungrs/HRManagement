@@ -534,17 +534,17 @@ namespace QLNhanSu
         //     frm.Show();
         // }
 
-        // private void bt_dmBophan_ItemClick(object sender, ItemClickEventArgs e)
-        // {
-        //     frmBophan frm = new frmBophan();
-        //     foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
-        //     {
-        //         if (frm.Name == _mdi_child.Name)
-        //             _mdi_child.Close();
-        //     }
-        //     frm.MdiParent = this;
-        //     frm.Show();
-        // }
+        private void bt_dmBophan_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmBophan frm = new frmBophan();
+            foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
+            {
+                if (frm.Name == _mdi_child.Name)
+                    _mdi_child.Close();
+            }
+            frm.MdiParent = this;
+            frm.Show();
+        }
 
         private void bt_dmChucvu_ItemClick(object sender, ItemClickEventArgs e)
         {
@@ -652,17 +652,17 @@ namespace QLNhanSu
         //     frm.Show();
         // }
 
-        // private void navBarItem_DMbophan_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
-        // {
-        //     frmBophan frm = new frmBophan();
-        //     foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
-        //     {
-        //         if (frm.Name == _mdi_child.Name)
-        //             _mdi_child.Close();
-        //     }
-        //     frm.MdiParent = this;
-        //     frm.Show();
-        // }
+        private void navBarItem_DMbophan_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            frmBophan frm = new frmBophan();
+            foreach (System.Windows.Forms.Form _mdi_child in this.MdiChildren)
+            {
+                if (frm.Name == _mdi_child.Name)
+                    _mdi_child.Close();
+            }
+            frm.MdiParent = this;
+            frm.Show();
+        }
 
         private void navBarItem_DMChucvu_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
         {

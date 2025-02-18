@@ -709,7 +709,7 @@
             this.bt_dmBophan.Id = 122;
             this.bt_dmBophan.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("bt_dmBophan.ImageOptions.SvgImage")));
             this.bt_dmBophan.Name = "bt_dmBophan";
-            // this.bt_dmBophan.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bt_dmBophan_ItemClick);
+            this.bt_dmBophan.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bt_dmBophan_ItemClick);
             // 
             // bt_dmChucvu
             // 

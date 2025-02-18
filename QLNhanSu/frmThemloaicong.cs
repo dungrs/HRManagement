@@ -122,7 +122,7 @@ namespace QLNhanSu
                 image_yes_tenloaicong.Visible = false;
                 txtTenloaicong.ToolTip = "Không được quá 75 ký tự";
             }
-            else if (!BUS_LoaiCong.kiemTraTrungTen(txtTenloaicong.Text))
+            else if (BUS_LoaiCong.kiemTraTrungTen(txtTenloaicong.Text))
             {
                 image_no_tenloaicong.Visible = true;
                 image_yes_tenloaicong.Visible = false;
