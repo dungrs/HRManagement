@@ -717,7 +717,7 @@
             this.bt_dmChucvu.Id = 123;
             this.bt_dmChucvu.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("bt_dmChucvu.ImageOptions.SvgImage")));
             this.bt_dmChucvu.Name = "bt_dmChucvu";
-            // this.bt_dmChucvu.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bt_dmChucvu_ItemClick);
+            this.bt_dmChucvu.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bt_dmChucvu_ItemClick);
             // 
             // bt_dmLoaicong
             // 

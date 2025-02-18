@@ -1376,3 +1376,4 @@ C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemlo
 C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmPhucap.resources
 C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmSuaphucap.resources
 C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemphucap.resources
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChucvu.resources

@@ -120,7 +120,7 @@
             this.bt_Dangnhap.TabIndex = 5;
             this.bt_Dangnhap.Text = "ĐĂNG NHẬP";
             this.bt_Dangnhap.Click += new System.EventHandler(this.bt_Dangnhap_Click);
-            // 
+            //  
             // label1
             // 
             this.label1.AutoSize = true;

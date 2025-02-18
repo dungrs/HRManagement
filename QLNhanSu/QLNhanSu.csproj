@@ -98,6 +98,12 @@
       <DependentUpon>CrystalReport1.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="frmChucvu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChucvu.Designer.cs">
+      <DependentUpon>frmChucvu.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmDoimatkhau.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -155,7 +161,9 @@
     <Compile Include="frmThemphucap.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmThemphucap.Designer.cs" />
+    <Compile Include="frmThemphucap.Designer.cs">
+      <DependentUpon>frmThemphucap.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmTinh.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -187,6 +195,9 @@
     <EmbeddedResource Include="CrystalReport1.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChucvu.resx">
+      <DependentUpon>frmChucvu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmDoimatkhau.resx">
       <DependentUpon>frmDoimatkhau.cs</DependentUpon>

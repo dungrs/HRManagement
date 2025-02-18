@@ -3,88 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Downloads\\HRManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|c:\\users\\laptop\\downloads\\hrmanagement\\qlnhansu\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|c:\\users\\laptop\\downloads\\hrmanagement\\qlnhansu\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32714298-5BEE-4B37-A7F8-E33D0CA96A58}|DAO\\DAO.csproj|c:\\users\\laptop\\downloads\\hrmanagement\\dao\\dao_phucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32714298-5BEE-4B37-A7F8-E33D0CA96A58}|DAO\\DAO.csproj|solutionrelative:dao\\dao_phucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|c:\\users\\laptop\\downloads\\hrmanagement\\qlnhansu\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E186307A-E822-438C-8F59-C0AB41CCC196}|BUS\\BUS.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\bus\\bus_phucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E186307A-E822-438C-8F59-C0AB41CCC196}|BUS\\BUS.csproj|solutionrelative:bus\\bus_phucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1276E60-280B-4D7C-BE2B-1352277EEC5E}|DTO\\DTO.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\dto\\phucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1276E60-280B-4D7C-BE2B-1352277EEC5E}|DTO\\DTO.csproj|solutionrelative:dto\\phucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E186307A-E822-438C-8F59-C0AB41CCC196}|BUS\\BUS.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\bus\\bus_loaicong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E186307A-E822-438C-8F59-C0AB41CCC196}|BUS\\BUS.csproj|solutionrelative:bus\\bus_loaicong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32714298-5BEE-4B37-A7F8-E33D0CA96A58}|DAO\\DAO.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\dao\\dao_loaicong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32714298-5BEE-4B37-A7F8-E33D0CA96A58}|DAO\\DAO.csproj|solutionrelative:dao\\dao_loaicong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32714298-5BEE-4B37-A7F8-E33D0CA96A58}|DAO\\DAO.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\dao\\dao_tinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32714298-5BEE-4B37-A7F8-E33D0CA96A58}|DAO\\DAO.csproj|solutionrelative:dao\\dao_tinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1276E60-280B-4D7C-BE2B-1352277EEC5E}|DTO\\DTO.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\dto\\loaicong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1276E60-280B-4D7C-BE2B-1352277EEC5E}|DTO\\DTO.csproj|solutionrelative:dto\\loaicong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E186307A-E822-438C-8F59-C0AB41CCC196}|BUS\\BUS.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\bus\\bus_tinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E186307A-E822-438C-8F59-C0AB41CCC196}|BUS\\BUS.csproj|solutionrelative:bus\\bus_tinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\frmtinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmtinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\frmtaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmtaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\frmmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\clconver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\clconver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\qlnhansu\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,58 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "frmTinh.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmTinh.cs",
-              "RelativeDocumentMoniker": "QLNhanSu\\frmTinh.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmTinh.cs",
-              "RelativeToolTip": "QLNhanSu\\frmTinh.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T17:05:39.058Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DAO_PhuCap.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DAO\\DAO_PhuCap.cs",
-              "RelativeDocumentMoniker": "DAO\\DAO_PhuCap.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DAO\\DAO_PhuCap.cs",
-              "RelativeToolTip": "DAO\\DAO_PhuCap.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAArwJAAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:45:29.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BUS_PhuCap.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\BUS\\BUS_PhuCap.cs",
-              "RelativeDocumentMoniker": "BUS\\BUS_PhuCap.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\BUS\\BUS_PhuCap.cs",
-              "RelativeToolTip": "BUS\\BUS_PhuCap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:45:15.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PhuCap.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DTO\\PhuCap.cs",
-              "RelativeDocumentMoniker": "DTO\\PhuCap.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DTO\\PhuCap.cs",
-              "RelativeToolTip": "DTO\\PhuCap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:42:11.497Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -154,9 +36,9 @@
               "RelativeDocumentMoniker": "QLNhanSu\\frmlogin.Designer.cs",
               "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmlogin.Designer.cs",
               "RelativeToolTip": "QLNhanSu\\frmlogin.Designer.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAArwJUAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAIMAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T13:02:21.694Z",
+              "WhenOpened": "2025-02-18T08:53:16.615Z",
               "EditorCaption": ""
             },
             {
@@ -168,186 +50,32 @@
               "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmlogin.cs [Design]",
               "RelativeToolTip": "QLNhanSu\\frmlogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T12:24:01.622Z",
+              "WhenOpened": "2025-02-18T08:53:14.404Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "frmTaikhoan.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmTaikhoan.cs",
-              "RelativeDocumentMoniker": "QLNhanSu\\frmTaikhoan.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmTaikhoan.cs [Design]",
-              "RelativeToolTip": "QLNhanSu\\frmTaikhoan.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "frmChucvu.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmChucvu.cs",
+              "RelativeDocumentMoniker": "QLNhanSu\\frmChucvu.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmChucvu.cs",
+              "RelativeToolTip": "QLNhanSu\\frmChucvu.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAD4v0gAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T10:32:26.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "frmTaikhoan.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmTaikhoan.cs",
-              "RelativeDocumentMoniker": "QLNhanSu\\frmTaikhoan.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmTaikhoan.cs",
-              "RelativeToolTip": "QLNhanSu\\frmTaikhoan.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAywHcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T13:26:45.072Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DAO_Tinh.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DAO\\DAO_Tinh.cs",
-              "RelativeDocumentMoniker": "DAO\\DAO_Tinh.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DAO\\DAO_Tinh.cs",
-              "RelativeToolTip": "DAO\\DAO_Tinh.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:16:02.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DAO_LoaiCong.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DAO\\DAO_LoaiCong.cs",
-              "RelativeDocumentMoniker": "DAO\\DAO_LoaiCong.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DAO\\DAO_LoaiCong.cs",
-              "RelativeToolTip": "DAO\\DAO_LoaiCong.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T05:17:02.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BUS_LoaiCong.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\BUS\\BUS_LoaiCong.cs",
-              "RelativeDocumentMoniker": "BUS\\BUS_LoaiCong.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\BUS\\BUS_LoaiCong.cs",
-              "RelativeToolTip": "BUS\\BUS_LoaiCong.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBEAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T05:17:19.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoaiCong.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DTO\\LoaiCong.cs",
-              "RelativeDocumentMoniker": "DTO\\LoaiCong.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DTO\\LoaiCong.cs",
-              "RelativeToolTip": "DTO\\LoaiCong.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAA/wBAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T03:29:28.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmlogin.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmlogin.cs",
-              "RelativeDocumentMoniker": "QLNhanSu\\frmlogin.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmlogin.cs",
-              "RelativeToolTip": "QLNhanSu\\frmlogin.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T03:33:24.162Z",
+              "WhenOpened": "2025-02-18T06:19:47.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "clConver.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\clConver.cs",
-              "RelativeDocumentMoniker": "QLNhanSu\\clConver.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\clConver.cs",
-              "RelativeToolTip": "QLNhanSu\\clConver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "frmChucvu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmChucvu.cs",
+              "RelativeDocumentMoniker": "QLNhanSu\\frmChucvu.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmChucvu.cs [Design]",
+              "RelativeToolTip": "QLNhanSu\\frmChucvu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T10:51:35.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\Program.cs",
-              "RelativeDocumentMoniker": "QLNhanSu\\Program.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\Program.cs",
-              "RelativeToolTip": "QLNhanSu\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T10:43:17.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "frmTaikhoan.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmTaikhoan.Designer.cs",
-              "RelativeDocumentMoniker": "QLNhanSu\\frmTaikhoan.Designer.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmTaikhoan.Designer.cs",
-              "RelativeToolTip": "QLNhanSu\\frmTaikhoan.Designer.cs",
-              "ViewState": "AgIAADgCAAAAAAAAAAArwFECAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T13:24:19.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmMainForm.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmMainForm.cs",
-              "RelativeDocumentMoniker": "QLNhanSu\\frmMainForm.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmMainForm.cs",
-              "RelativeToolTip": "QLNhanSu\\frmMainForm.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAgwJoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T14:43:29.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BUS_Tinh.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\BUS\\BUS_Tinh.cs",
-              "RelativeDocumentMoniker": "BUS\\BUS_Tinh.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\BUS\\BUS_Tinh.cs",
-              "RelativeToolTip": "BUS\\BUS_Tinh.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:29:41.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "frmMainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmMainForm.cs",
-              "RelativeDocumentMoniker": "QLNhanSu\\frmMainForm.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmMainForm.cs [Design]",
-              "RelativeToolTip": "QLNhanSu\\frmMainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T10:32:03.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "frmMainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmMainForm.Designer.cs",
-              "RelativeDocumentMoniker": "QLNhanSu\\frmMainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmMainForm.Designer.cs",
-              "RelativeToolTip": "QLNhanSu\\frmMainForm.Designer.cs",
-              "ViewState": "AgIAAGkBAAAAAAAAAAArwHcBAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T13:58:02.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "frmDoimatkhau.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmDoimatkhau.cs",
-              "RelativeDocumentMoniker": "QLNhanSu\\frmDoimatkhau.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmDoimatkhau.cs [Design]",
-              "RelativeToolTip": "QLNhanSu\\frmDoimatkhau.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T10:32:20.808Z"
+              "WhenOpened": "2025-02-18T06:04:36.332Z"
             }
           ]
         }

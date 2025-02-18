@@ -1,32 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿namespace DTO {
+    public class ChucVu {
+        public string Machucvu { get; set; }
+        public string Tenchucvu { get; set; }
+        public float Hsl { get; set; }
 
-namespace DTO
-{
-    public class ChucVu
-    {
-        private string machucvu;
+        // Constructor mặc định
+        public ChucVu() { }
 
-        public string Machucvu
-        {
-            get { return machucvu; }
-            set { machucvu = value; }
-        }
-        private string tenchucvu;
-
-        public string Tenchucvu
-        {
-            get { return tenchucvu; }
-            set { tenchucvu = value; }
-        }
-        private float hsl;
-
-        public float Hsl
-        {
-            get { return hsl; }
-            set { hsl = value; }
+        // Constructor có tham số
+        public ChucVu(string machucvu, string tenchucvu, float hsl) {
+            Machucvu = machucvu;
+            Tenchucvu = tenchucvu;
+            Hsl = hsl;
         }
     }
 }

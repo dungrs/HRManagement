@@ -5,7 +5,7 @@ using System.Windows.Forms;
 
 namespace DA {
     public class KetNoi  {
-        private static readonly string ConnectionString = @"Server=(local);Database=QLNSFinal;Trusted_Connection=True;";
+        private static readonly string ConnectionString = @"Server=(local);Database=QLNS;Trusted_Connection=True;";
         private SqlConnection connect;
 
         public KetNoi() {
