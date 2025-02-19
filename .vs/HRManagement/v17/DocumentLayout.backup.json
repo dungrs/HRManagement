@@ -3,7 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Downloads\\HRManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1276E60-280B-4D7C-BE2B-1352277EEC5E}|DTO\\DTO.csproj|c:\\users\\laptop\\downloads\\hrmanagement\\dto\\loaica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|c:\\users\\laptop\\downloads\\hrmanagement\\qlnhansu\\frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1276E60-280B-4D7C-BE2B-1352277EEC5E}|DTO\\DTO.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\dto\\khautru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1276E60-280B-4D7C-BE2B-1352277EEC5E}|DTO\\DTO.csproj|solutionrelative:dto\\khautru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|c:\\users\\laptop\\downloads\\hrmanagement\\qlnhansu\\frmkhautru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD98A591-9C15-44C6-B984-422A42950E0D}|QLNhanSu\\QLNhanSu.csproj|solutionrelative:qlnhansu\\frmkhautru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32714298-5BEE-4B37-A7F8-E33D0CA96A58}|DAO\\DAO.csproj|c:\\users\\laptop\\downloads\\hrmanagement\\dao\\tinhdatetimepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32714298-5BEE-4B37-A7F8-E33D0CA96A58}|DAO\\DAO.csproj|solutionrelative:dao\\tinhdatetimepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32714298-5BEE-4B37-A7F8-E33D0CA96A58}|DAO\\DAO.csproj|c:\\users\\laptop\\downloads\\hrmanagement\\dao\\dao_khautru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32714298-5BEE-4B37-A7F8-E33D0CA96A58}|DAO\\DAO.csproj|solutionrelative:dao\\dao_khautru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E186307A-E822-438C-8F59-C0AB41CCC196}|BUS\\BUS.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\bus\\bus_khautru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E186307A-E822-438C-8F59-C0AB41CCC196}|BUS\\BUS.csproj|solutionrelative:bus\\bus_khautru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1276E60-280B-4D7C-BE2B-1352277EEC5E}|DTO\\DTO.csproj|C:\\Users\\Laptop\\Downloads\\HRManagement\\dto\\loaica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1276E60-280B-4D7C-BE2B-1352277EEC5E}|DTO\\DTO.csproj|solutionrelative:dto\\loaica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,24 +46,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TinhDateTimePicker.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DAO\\TinhDateTimePicker.cs",
+              "RelativeDocumentMoniker": "DAO\\TinhDateTimePicker.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DAO\\TinhDateTimePicker.cs",
+              "RelativeToolTip": "DAO\\TinhDateTimePicker.cs",
+              "ViewState": "AgIAAAAAAABgYO+YGhgVwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:04:28.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmMainForm.cs",
+              "RelativeDocumentMoniker": "QLNhanSu\\frmMainForm.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmMainForm.cs",
+              "RelativeToolTip": "QLNhanSu\\frmMainForm.cs",
+              "ViewState": "AgIAAGcBAAAAAAAAAADgv3YBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T05:56:45.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmKhautru.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmKhautru.cs",
+              "RelativeDocumentMoniker": "QLNhanSu\\frmKhautru.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\QLNhanSu\\frmKhautru.cs",
+              "RelativeToolTip": "QLNhanSu\\frmKhautru.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T05:54:41.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAO_KhauTru.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DAO\\DAO_KhauTru.cs",
+              "RelativeDocumentMoniker": "DAO\\DAO_KhauTru.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DAO\\DAO_KhauTru.cs",
+              "RelativeToolTip": "DAO\\DAO_KhauTru.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T05:21:31.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BUS_KhauTru.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\BUS\\BUS_KhauTru.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_KhauTru.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\BUS\\BUS_KhauTru.cs",
+              "RelativeToolTip": "BUS\\BUS_KhauTru.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T05:21:13.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhauTru.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DTO\\KhauTru.cs",
+              "RelativeDocumentMoniker": "DTO\\KhauTru.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DTO\\KhauTru.cs",
+              "RelativeToolTip": "DTO\\KhauTru.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T05:20:43.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LoaiCa.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DTO\\LoaiCa.cs",
               "RelativeDocumentMoniker": "DTO\\LoaiCa.cs",
               "ToolTip": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DTO\\LoaiCa.cs",
               "RelativeToolTip": "DTO\\LoaiCa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T02:58:51.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T02:58:51.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "BUS_TangCa.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\BUS\\BUS_TangCa.cs",
               "RelativeDocumentMoniker": "BUS\\BUS_TangCa.cs",
@@ -51,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "DAO_TangCa.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Downloads\\HRManagement\\DAO\\DAO_TangCa.cs",
               "RelativeDocumentMoniker": "DAO\\DAO_TangCa.cs",

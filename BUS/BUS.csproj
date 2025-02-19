@@ -48,6 +48,7 @@
     <Compile Include="BUS_BoPhan.cs" />
     <Compile Include="BUS_ChucVu.cs" />
     <Compile Include="BUS_HeThong.cs" />
+    <Compile Include="BUS_KhauTru.cs" />
     <Compile Include="BUS_LoaiCong.cs" />
     <Compile Include="BUS_PhuCap.cs" />
     <Compile Include="BUS_TangCa.cs" />

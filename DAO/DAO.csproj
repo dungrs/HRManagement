@@ -48,6 +48,7 @@
     <Compile Include="DAO_BoPhan.cs" />
     <Compile Include="DAO_ChucVu.cs" />
     <Compile Include="DAO_HeThong.cs" />
+    <Compile Include="DAO_KhauTru.cs" />
     <Compile Include="DAO_LoaiCong.cs" />
     <Compile Include="DAO_PhuCap.cs" />
     <Compile Include="DAO_TangCa.cs" />

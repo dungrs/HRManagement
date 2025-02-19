@@ -1379,3 +1379,4 @@ C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmThemph
 C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmChucvu.resources
 C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmBophan.resources
 C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmDMTangca.resources
+C:\Users\Laptop\Downloads\HRManagement\QLNhanSu\obj\x86\Debug\QLNhanSu.frmKhautru.resources

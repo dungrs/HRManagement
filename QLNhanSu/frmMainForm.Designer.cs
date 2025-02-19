@@ -569,7 +569,7 @@
             this.btKhautru.Id = 65;
             this.btKhautru.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("btKhautru.ImageOptions.SvgImage")));
             this.btKhautru.Name = "btKhautru";
-            // this.btKhautru.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btKhautru_ItemClick);
+            this.btKhautru.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btKhautru_ItemClick);
             // 
             // btThemcong
             // 

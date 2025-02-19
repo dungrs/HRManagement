@@ -122,6 +122,12 @@
     <Compile Include="frmDoimatkhau.Designer.cs">
       <DependentUpon>frmDoimatkhau.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmKhautru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKhautru.Designer.cs">
+      <DependentUpon>frmKhautru.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmLoaicong.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -219,6 +225,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmDoimatkhau.resx">
       <DependentUpon>frmDoimatkhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKhautru.resx">
+      <DependentUpon>frmKhautru.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLoaicong.resx">
       <DependentUpon>frmLoaicong.cs</DependentUpon>

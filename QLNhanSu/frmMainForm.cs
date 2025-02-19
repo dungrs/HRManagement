@@ -374,14 +374,11 @@ namespace QLNhanSu
         //     frm.Show();
         // }
        
-        // private void btKhautru_ItemClick(object sender, ItemClickEventArgs e)
-        // {
-        //     frmKhautru frm = new frmKhautru();
-        //     frm.Show();
-        // }
-
-      
-
+        private void btKhautru_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmKhautru frm = new frmKhautru();
+            frm.Show();
+        }
       
         // private void btChitietphucap_ItemClick(object sender, ItemClickEventArgs e)
         // {
@@ -449,11 +446,11 @@ namespace QLNhanSu
         //     frm.Show();
         // }
 
-        // private void navBarItem_Khautru_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
-        // {
-        //     frmKhautru frm = new frmKhautru();
-        //     frm.Show();
-        // }
+        private void navBarItem_Khautru_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            frmKhautru frm = new frmKhautru();
+            frm.Show();
+        }
 
         private void navBarItem_Loaicong_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
         {
