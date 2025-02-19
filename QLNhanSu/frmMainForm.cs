@@ -395,11 +395,11 @@ namespace QLNhanSu
         //     frm.Show();
         // }
 
-        // private void btBar_DMLoaica_ItemClick(object sender, ItemClickEventArgs e)
-        // {
-        //     frmDMTangca frm = new frmDMTangca();
-        //     frm.Show();
-        // }
+        private void btBar_DMLoaica_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmDMTangca frm = new frmDMTangca();
+            frm.Show();
+        }
 
         // private void barButtonItem5_ItemClick(object sender, ItemClickEventArgs e)
         // {
@@ -582,11 +582,11 @@ namespace QLNhanSu
             frm.Show();
         }
 
-        // private void bt_dmLoaica_ItemClick(object sender, ItemClickEventArgs e)
-        // {
-        //     frmDMTangca frm = new frmDMTangca();
-        //     frm.Show();
-        // }
+        private void bt_dmLoaica_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmDMTangca frm = new frmDMTangca();
+            frm.Show();
+        }
 
         private void bt_dmTinh_ItemClick(object sender, ItemClickEventArgs e)
         {

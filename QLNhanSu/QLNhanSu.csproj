@@ -110,6 +110,12 @@
     <Compile Include="frmChucvu.Designer.cs">
       <DependentUpon>frmChucvu.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmDMTangca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDMTangca.Designer.cs">
+      <DependentUpon>frmDMTangca.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmDoimatkhau.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -207,6 +213,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmChucvu.resx">
       <DependentUpon>frmChucvu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDMTangca.resx">
+      <DependentUpon>frmDMTangca.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmDoimatkhau.resx">
       <DependentUpon>frmDoimatkhau.cs</DependentUpon>

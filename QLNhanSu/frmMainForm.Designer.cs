@@ -741,7 +741,7 @@
             this.bt_dmLoaica.Id = 126;
             this.bt_dmLoaica.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("bt_dmLoaica.ImageOptions.SvgImage")));
             this.bt_dmLoaica.Name = "bt_dmLoaica";
-            // this.bt_dmLoaica.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bt_dmLoaica_ItemClick);
+            this.bt_dmLoaica.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bt_dmLoaica_ItemClick);
             // 
             // check_chucnang
             // 
